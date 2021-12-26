@@ -1,13 +1,13 @@
 {
-  "name": "flyio",
+  "name": "@oiinetech/flyio",
   "version": "0.6.14",
   "main": "node-index.js",
   "browser": "index.js",
   "weapp": "dist/npm/wx.js",
   "author": {
-    "name": "wendux",
-    "email": "824783146@qq.com",
-    "url": "https://github.com/wendux/fly"
+    "name": "polichan",
+    "email": "chenpy@oiine.com",
+    "url": "https://github.com/polichan/fly"
   },
   "license": "MIT",
   "description": "Lightweigh Promise based HTTP client for the browser and node.js",
@@ -17,11 +17,11 @@
   ],
   "respository": {
     "type": "git",
-    "url": "https://github.com/wendux/fly"
+    "url": "https://github.com/polichan/fly"
   },
-  "homepage": "https://github.com/wendux/fly",
+  "homepage": "https://github.com/polichan/fly",
   "bugs": {
-    "url": "https://github.com/wendux/fly/issues"
+    "url": "https://github.com/polichan/fly/issues"
   },
   "scripts": {
     "dev": "node build.js dev",
